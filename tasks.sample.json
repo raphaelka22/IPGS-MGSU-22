@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Подготовить презентацию",
+    "importance": 5,
+    "urgency": 4,
+    "time_hours": 3,
+    "energy": 4,
+    "deadline": "2024-10-01",
+    "order": 2,
+    "depends_on": ["Собрать материалы"]
+  },
+  {
+    "title": "Разобрать почту",
+    "importance": 2,
+    "urgency": 3,
+    "time_hours": 1,
+    "energy": 2
+  },
+  {
+    "title": "Собрать материалы",
+    "importance": 4,
+    "urgency": 3,
+    "time_hours": 2,
+    "energy": 3,
+    "order": 1
+  }
+]
